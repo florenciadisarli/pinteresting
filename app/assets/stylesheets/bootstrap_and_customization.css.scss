@@ -1,1 +1,21 @@
+@import url(http://fonts.googleapis.com/css?family=Erica+One);
+
+$body-bg:											#95a5a6;
+$font-family-metrophobic:			'Erica+One';
+$navbar-default-bg:						black;
+$navbar-default-link-color:		#ecf0f1;
+$navbar-default-brand-color:	#e74c3c;
+$jumbotron-bg:								#ecf0f1;
+$btn-default-bg:							#e74c3c;
+$btn-default-color:						white;
+$brand-primary-color:					#ecf0f1;
+
 @import 'bootstrap';
+
+.center {
+	text-align: center;
+}
+
+.navbar-brand {
+	font-weight: bold;
+}
